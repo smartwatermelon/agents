@@ -1,1 +1,0 @@
-../../incident-response/agents/devops-troubleshooter.md

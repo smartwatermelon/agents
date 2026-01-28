@@ -1,1 +1,0 @@
-../../error-debugging/agents/error-detective.md

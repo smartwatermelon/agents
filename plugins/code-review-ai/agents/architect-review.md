@@ -1,1 +1,0 @@
-../../comprehensive-review/agents/architect-review.md

@@ -1,1 +1,0 @@
-../../backend-development/agents/backend-architect.md

@@ -1,1 +1,0 @@
-../../frontend-mobile-development/agents/frontend-developer.md

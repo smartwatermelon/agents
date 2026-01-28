@@ -1,1 +1,0 @@
-../../cloud-infrastructure/agents/cloud-architect.md

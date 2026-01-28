@@ -1,1 +1,0 @@
-../../cloud-infrastructure/agents/terraform-specialist.md

@@ -1,1 +1,0 @@
-../../kubernetes-operations/agents/kubernetes-architect.md
